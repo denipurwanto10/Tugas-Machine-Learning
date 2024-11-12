@@ -1,4 +1,4 @@
-![Screenshot 2024-11-08 192741](https://github.com/user-attachments/assets/336e4469-65e4-4db3-b86d-14d0fbf8b00c)Nama : Deni Purwanto            
+Nama : Deni Purwanto            
 NPM : 41155050210017   
 Kelas : INF A  
 Mata Kuliah : Machine Learning  
