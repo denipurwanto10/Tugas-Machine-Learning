@@ -1,8 +1,7 @@
 Nama : Deni Purwanto            
-
-NPM : 41155050210017
-Kelas : INF A
-Mata Kuliah : Machine Learning
+NPM : 41155050210017   
+Kelas : INF A  
+Mata Kuliah : Machine Learning  
 
 
 
