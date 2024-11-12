@@ -7,7 +7,9 @@ Mata Kuliah : Machine Learning
 
 1.0.	K-Nearest Neighbours (KNN). Lakukan praktik dari https://youtu.be/4zARMcgc7hA?si=x6RoHQXFF4NY76X8 , buat screenshot dengan nama kalian pada coding, kumpulkan dalam bentuk pdf, dari kegiatan ini:
 1.1.	Persiapan sample dataset
- 
+
+ ![Screenshot 2024-11-08 185104](https://github.com/user-attachments/assets/68cf41c5-d73b-498b-9fa0-30f3e231aaa8)
+
 1.2.	Visualisasi dataset
  
 1.3.	Pengantar classification dengan K-Nearest Neighbours | KNN
