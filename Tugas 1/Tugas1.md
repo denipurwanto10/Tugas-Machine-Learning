@@ -11,132 +11,166 @@
 1. **Instalasi Jupyter Noterbook, Lakukan download dan instalasi:** 
 - **Instalasi Jupyter Notebook**
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.001.jpeg)
+![image](https://github.com/user-attachments/assets/e10f136b-7818-485f-9207-902551438de6)
+
 
 - **Download Library NumPy** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.002.jpeg)
+![image](https://github.com/user-attachments/assets/0106f3dc-9d95-4f45-82e4-580f11caad68)
+
 
 - **Download Library SciPy** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.003.png)
+![image](https://github.com/user-attachments/assets/a0d7da88-7bd4-4bae-88d7-9e579b83f813)
+
 
 - **Download Library Pandas** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.004.jpeg)
+![image](https://github.com/user-attachments/assets/48fc55ff-086b-4760-a688-6c9c3e75d21f)
 
-- **Download Library Matplotlib** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.005.jpeg)
 
-- **Download Library Seaborn** 
+- **Download Library Matplotlib**
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.006.jpeg)
+![image](https://github.com/user-attachments/assets/1fe85a6b-c585-46c1-921c-635ab62e5e54)
 
-- **Download Library Scikit-Learn** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.007.jpeg)
 
-- **Tuliskan nama dan nomor NPM anda pada Jupiter Notebook.** 
+- **Download Library Seaborn**
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.008.png)
+![image](https://github.com/user-attachments/assets/986be948-73dd-4401-b42c-dd21272053d4)
+
+
+- **Download Library Scikit-Learn**
+
+![image](https://github.com/user-attachments/assets/c06b0b21-9a0e-49d3-80f9-43fa92c797ec)
+
+
+
+- **Tuliskan nama dan nomor NPM anda pada Jupiter Notebook.**
+
+![image](https://github.com/user-attachments/assets/58870ccf-daef-4559-b842-1f94157cdc08)
+
 
 **Tugas Pertemuan 1 Jawaban Nomor 2** 
 
 2. **Menggunakan Google Collab** 
-- **Gunakan Google Colab [(https://colab.research.google.com/)](https://colab.research.google.com/)** 
+- **Gunakan Google Colab [(https://colab.research.google.com/)](https://colab.research.google.com/)**
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.009.jpeg)
+![image](https://github.com/user-attachments/assets/2b75ea4b-e5f8-400f-8600-d964acdc4fa1)
 
-- **Tuliskan nama dan nomor NPM anda pada Google Colab.![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.010.png)**
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.011.jpeg)
+- **Tuliskan nama dan nomor NPM anda pada Google Colab.**
+
+![image](https://github.com/user-attachments/assets/47778c02-4282-427f-a1da-32005018235f)
+
+
 
 **Tugas Pertemuan 1 Jawaban Nomor 3** 
 
 3. **Buatlah akun di[ https://www.kaggle.com/** ](https://www.kaggle.com/)**
-- **Buat screenshot sebagai jawaban nomor 3 di Tugas Pertemuan 1** 
+- **Buat screenshot sebagai jawaban nomor 3 di Tugas Pertemuan 1**
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.012.jpeg)
+ ![image](https://github.com/user-attachments/assets/29cb4865-5f74-499f-af6b-c7d25d32c7a9)
+
 
 **Tugas Pertemuan 1 Jawaban Nomor 4** 
 
 4. **Buatlah akun di[ https://github.com/** ](https://github.com/)**
 - **Buat screenshot sebagai jawaban nomor 4 di Tugas Pertemuan 1** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.013.jpeg)
+![image](https://github.com/user-attachments/assets/35ae652b-fdb3-4bc0-9eba-3284ee617c90)
+
+
 
 **Tugas Pertemuan 1 Jawaban Nomor 5** 
 
 5. **Lakukan praktek dari[ https://youtu.be/mSO2hJln0OY?feature=shared** ](https://youtu.be/mSO2hJln0OY?feature=shared)**
 - **Load sample dataset** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.014.jpeg)
+![image](https://github.com/user-attachments/assets/e82c75db-e5b7-4ca0-b0e2-d2584195db32)
+
 
 - **Metadata | Deskripsi dari sample dataset** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.015.jpeg)
+![image](https://github.com/user-attachments/assets/21f63ce9-ecfd-49b6-be75-a4a76e68b1b0)
+
 
 - **Explanatory & Response Variables | Features & Target** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.016.jpeg)
+![image](https://github.com/user-attachments/assets/ab607436-f5ce-4245-8b26-637da8b6da8c)
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.017.jpeg)
+![image](https://github.com/user-attachments/assets/53539fa8-fabb-4806-bbcd-599f9ba89a73)
+
+
 
 - **Feature & Target Names** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.018.jpeg)
+![image](https://github.com/user-attachments/assets/28ae8b62-d4ac-4203-8ec4-57ee205ff93b)
+
 
 - **Visualisasi Data** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.019.jpeg)
+![image](https://github.com/user-attachments/assets/d005b9dc-c592-433b-b4d1-53c11f9dbd57)
+
 
 - **Training Set & Testing Set** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.020.jpeg)
+![image](https://github.com/user-attachments/assets/e09343fa-c090-4fc6-9750-3588b04a4cb5)
+
 
 - **Load sample dataset sebagai Pandas Data Frame** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.021.jpeg)
+![image](https://github.com/user-attachments/assets/1946e574-14a8-4a5b-8aee-6dfcd922014f)
+
 
 **Tugas Pertemuan 1 Jawaban Nomor 6** 
 
 6. **Lakukan praktek dari https://youtu.be/tiREcHrtDLo?feature=shared**  
 - **Persiapan dataset | Loading & splitting dataset** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.022.jpeg)
+![image](https://github.com/user-attachments/assets/e0adfd01-3da8-4c09-99f6-549506176cf1)
+
 
 - **Training model Machine Learning** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.023.png)
+![image](https://github.com/user-attachments/assets/36e44782-7082-4546-89ad-3aeab4122900)
+
 
 - **Evaluasi model Machine Learning** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.024.png)
+![image](https://github.com/user-attachments/assets/1f3fa6e1-7c04-4f87-9d42-872bbb390db4)
+
 
 - **Pemanfaatan trained model machine learning** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.025.jpeg)
+![image](https://github.com/user-attachments/assets/a3397a68-c44b-4ac9-ba2d-0ea0fae237f4)
+
 
 - **Deploy model Machine Learning | Dumping dan Loading model Machine Learning** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.026.png)
+![image](https://github.com/user-attachments/assets/c9c87857-dd54-40b9-96bc-84e4d609cd77)
+
 
 **Tugas Pertemuan 1 Jawaban Nomor 7** 
 
 7. **Lakukan praktek dari[ https://youtu.be/smNnhEd26Ek?feature=shared** ](https://youtu.be/smNnhEd26Ek?feature=shared)**
 - **Persiapan sample dataset** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.027.jpeg)
+![image](https://github.com/user-attachments/assets/e9addb4a-0377-49ce-abd9-ab6de101683f)
+
 
 - **Teknik data preprocessing 1: binarization** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.028.jpeg)
+![image](https://github.com/user-attachments/assets/f46f572d-3956-4d45-a462-424c3928f92e)
+
 
 - **Teknik data preprocessing 2: scaling** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.029.jpeg)
+![image](https://github.com/user-attachments/assets/27e593c1-5d1f-4459-a658-742c3b4d1081)
+
 
 - **Teknik data preprocessing 3: normalisation** 
 
-  ![](Aspose.Words.31bca1d3-06fb-4bd8-b099-44afd0d7d9d6.030.jpeg)
+![image](https://github.com/user-attachments/assets/aafc7b2b-e0a2-4b9e-9cd6-0a858cb30c70)
+
