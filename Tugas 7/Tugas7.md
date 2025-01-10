@@ -3,7 +3,7 @@ NPM : 41155050210017
 Kelas : A
 
 
-Tugas Pertemuan 9
+Tugas Pertemuan 11
 
 1.	Table logika AND 2 input
 
